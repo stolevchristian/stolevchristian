@@ -1,7 +1,7 @@
 # 👋 Christian Stolev
 
 **Reverse Engineer | Security Researcher | Backend Developer**  
-*19 | Trollhättan, Sweden 🇸🇪*
+*19 | Stenungsund, Sweden 🇸🇪*
 
 ---
 
